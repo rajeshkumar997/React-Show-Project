@@ -1,0 +1,49 @@
+.card {
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    background-color: #f8f8f8;
+}
+
+.compo {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+.show {
+    /* width: 30%; */
+    margin-top: 20px;
+}
+
+.show-image img {
+    max-width: 100%;
+    height: auto;
+}
+
+.container h1 {
+    text-align: center;
+}
+
+.link {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.link:hover {
+    background-color: #0056b3;
+}
+
+.show-details h2 {
+    color: #0056b3;
+}
+
+.title {
+    text-decoration: none;
+    background: none;
+}
